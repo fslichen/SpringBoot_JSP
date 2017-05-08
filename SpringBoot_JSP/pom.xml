@@ -11,6 +11,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<!-- When using JSP, don't make it an executable jar. -->
 	<!-- The project works just fine when running it as maven build clean package and java -jar SpringBoot_JSP-0.0.1-SNAPSHOT.war -->
+	<!-- The complete path is /Users/chenli/Desktop/Playground/Git/SpringBoot_JSP/SpringBoot_JSP/target/SpringBoot_JSP-0.0.1-SNAPSHOT.war -->
 	<packaging>war</packaging>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
